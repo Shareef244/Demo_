@@ -1,1 +1,4 @@
 ##Hello
+Python Developer
+Web scraping
+MySQL
